@@ -1,0 +1,132 @@
+body {
+  background-image: linear-gradient(white, #47B5FF, #06283D, white, #47B5FF, #06283D);
+}
+
+.title{
+  font-size: 150px;
+  font-family: papyrus;
+}
+
+hr {
+  background-color: #256D85;
+  width: 100%;
+  height: 5px;
+  border-style: solid;
+  border-width: 5px;
+}
+
+h1 {
+  font-family: georgia;
+  font-weight: bold;
+  border-style: solid;
+  border-color: #47B5FF;
+  border-radius: 10px;
+  background-color: #06283D;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  font-family: georgia;
+  font-weight: bold;
+  border-style: solid;
+  border-color: #47B5FF;
+  border-bottom-right-radius: 15px;
+  background-color: #06283D;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+
+.p3 {
+  border-style: solid;
+  border-color: #47B5FF;
+  border-bottom-right-radius: 15px;
+  background-color: #06283D;
+  font-family: georgia;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+
+p {
+  border-style: solid;
+  border-color: #47B5FF;
+  border-bottom-right-radius: 15px;
+  border-width: 5px;
+  background-color: #06283D;
+  font-family: arial;
+  font-size: 20px;
+  color: white;
+  text-align: justify;
+}
+
+video {
+  height: 600px;
+  width: 900px;
+  border-style: solid;
+  border-width: 20px;
+  border-color: #06283D;
+}
+
+audio {
+  width: 300px;
+  border-style: solid;
+  border-width: 20px;
+  border-color: #06283D;
+}
+
+.class1 {
+  height: 500px;
+  width: 900px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+}
+
+img {
+  height: 200px;
+  width: 250px;
+}
+
+.arrow {
+  height: 90px;
+  width: 90px;
+  float: right;
+  border-style: dotted;
+  border-width: 10px;
+  border-color: black;
+}
+
+.shop: {
+  height: 150px;
+  width: 150px;
+  border-style: dotted;
+  border-width: 10px;
+  border-color: black;
+}
+
+.circle:hover {
+  height: 300px;
+  width: 350px;
+}
+
+.cont{
+  font-size: 20px;
+  font-family: georgia;
+}
+
+
+.to-top {
+  background: white;
+  position: fixed;
+  bottom: 16px;
+  right: 32px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+}
